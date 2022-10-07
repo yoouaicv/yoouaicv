@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yoouaicv.
-- 💻 I’m a 'cv' researcher. I like Ctrl + c and Ctrl + v.
+- 💻 I’m a 'cv' student. I like Ctrl + c and Ctrl + v.
 - 👀 I’m interested in image classification, remote sensing scene, object detection.
 - 🌱 I’m currently learning about vit or small model application in rs.
 - 💞️ I’m looking to collaborate on rs image classifier.
